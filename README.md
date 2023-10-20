@@ -45,6 +45,11 @@
 ## Live preview
 https://user-images.githubusercontent.com/44742460/184989251-47a3e8d0-81a2-4dc0-99f1-66fea44a1e61.mp4
 
+
+https://github.com/JonathanManaka/chatz/assets/48018676/a338064b-901e-43bf-b38e-4356f9e309ea
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
